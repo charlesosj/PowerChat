@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowerChat", "PowerChat\PowerChat.csproj", "{9865BA4B-4D48-4AD1-AF1A-DCBEB321034A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9865BA4B-4D48-4AD1-AF1A-DCBEB321034A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9865BA4B-4D48-4AD1-AF1A-DCBEB321034A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9865BA4B-4D48-4AD1-AF1A-DCBEB321034A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9865BA4B-4D48-4AD1-AF1A-DCBEB321034A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {249B2737-837B-477E-A16E-C390B77BE309}
+	EndGlobalSection
+
+EndGlobal
