@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace PowerChat.Helpers
-{// just a useless comment here, sup 
+{// just a useless comment here, 
     class Response
     {
         public bool Error { get; set; }
